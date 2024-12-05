@@ -6,7 +6,10 @@
 
 It is a novel approach to modeling engagement in social interactions by analyzing and interpreting the **effort** entities exert toward each other. The framework simplifies complex relational states into four key engagement states: *Passive*, *Buildup*, *Requested*, and *Engaged*, using **focus** as single summary of entites point of interest, enabling a structured and intuitive way to simulate and study engagement dynamics. This system supports interaction modeling across diverse contexts, including human-human, human-robot, and robot-robot scenarios, fostering better understanding and integration of social behaviors in autonomous systems.
 
-<p style="text-align: center;">![Entity](/Pictures/bob.png)</p>
+<p align="center">
+  <img src="/Pictures/bob.png" />
+</p>
+
 
 
 ## DISCLAIMER: the code will be uploaded once the paper is publically available
